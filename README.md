@@ -5,7 +5,10 @@ This Project includes the source code of the Bachelor Thesis "Different Approach
 Analysis on Sports Data" (2022) by Numan M. Tok.
 
 ## Installation
-The usage of a virtual environment is recommended. Install the requirements with "pip install -r requirements.txt".
+The usage of a virtual environment is recommended. 
+1. Download the source code as a zip file.
+2. Unzip the file in the virtual environment folder.
+3. Install the requirements with "pip install -r requirements.txt".
 
 ## Preparing files for Analysis
 To analyze your data, first the CSV file has to be specified in the code.
