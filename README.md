@@ -12,7 +12,7 @@ To analyze your data, first the CSV file has to be specified in the code.
 The CSV file should be in the same folder as the source code.
 Then, in the file "data_perparation.py" the file name of the CSV file must be specified in "csv_filename".
 Don't forget to add the ending ".csv" to the filename (e.g. csv_filename="my_data.csv").
-If necessary further CSV file properties can be specified in csv_encoding = "utf8", "csv_delimiter", "csv_decimal", "csv_missing_values".
+If necessary further CSV file properties can be specified in "csv_encoding", "csv_delimiter", "csv_decimal", "csv_missing_values".
 
 ## Running the Program
 To run the program, first the virtual environment should be activated if one was created.
